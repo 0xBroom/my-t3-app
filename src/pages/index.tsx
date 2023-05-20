@@ -50,7 +50,7 @@ const Home: NextPage = () => {
             }
           </div>
           <div className="flex flex-col">
-            {[...data, ...data]?.map((post) => (
+            {[...data, ...data]?.map(({ post, author }) => (
               <div key={post.id} className="p-8 border-b border-slate-400">{post.content}</div>
             ))}
           </div>
