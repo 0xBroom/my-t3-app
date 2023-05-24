@@ -35,14 +35,14 @@ const CreatePostWizard = () => {
 
   return (
     <div className="flex gap-3 w-full">
-      {/* <Image
+      <Image
         src={user.profileImageUrl}
         alt="Profile image"
         className="w-14 h-14 rounded-full"
         width={56}
         height={56}
-      /> */}
-      <UserButton />
+      />
+      {/* <UserButton /> */}
       <input
         placeholder="Type some emojis!"
         className="bg-transparent grow outline-none"
