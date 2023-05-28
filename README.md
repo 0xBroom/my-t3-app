@@ -1,6 +1,10 @@
 # T3 Twitter Clone
 
-Welcome to my first T3! This is a minimalistic Twitter clone application built using the [T3 stack](https://create.t3.gg/). With T3 Twitter Clone, users can post tweets, and view the tweets of the users.
+_Special thanks to [Theo](https://t3.gg/), the T3 father and his [T3 tutorial](https://www.youtube.com/watch?v=YkOSUVzOAA4)._
+
+[![Comprehensive Markdown Crash Course](https://markdown-videos.deta.dev/youtube/YkOSUVzOAA4)](https://www.youtube.com/watch?v=YkOSUVzOAA4)
+
+Welcome to my first T3 app! This is a minimalistic Twitter clone application built using the [T3 stack](https://create.t3.gg/). With T3 Twitter Clone, users can post tweets, and view the tweets of the users. Created following the above tutorial.
 
 ## Features
 
@@ -64,5 +68,3 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 T3 Twitter Clone is inspired by the functionality and design of Twitter. Thanks to the developers and contributors of the technologies and libraries used in this project.
-
-Special thanks to [Theo](https://t3.gg/), the T3 father and his [T3 tutorial](https://www.youtube.com/watch?v=YkOSUVzOAA4).
