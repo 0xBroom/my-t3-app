@@ -60,7 +60,7 @@ Follow the respective documentation of each service to set up your deployment en
 Contributions to T3 Twitter Clone are welcome! If you have any bug fixes, enhancements, or new features to propose, please submit a pull request. Ensure that your code adheres to the existing coding style and that all tests pass successfully.
 
 ## License
-This project is licensed under the MIT License. You can find more details in the LICENSE file.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 T3 Twitter Clone is inspired by the functionality and design of Twitter. Thanks to the developers and contributors of the technologies and libraries used in this project.
